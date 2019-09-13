@@ -22,4 +22,4 @@ Linux / Unix
 
 <b> How to Test?</b>
 
-A Tester program is provided for testing the datastore inside fw/app/client
+Application.java, a tester program is provided for testing the datastore inside src/fw/app/client
