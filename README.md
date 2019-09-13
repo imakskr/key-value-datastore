@@ -1,8 +1,19 @@
-A simple file based key value store that can be used by processes as local storage
+A simple file based key value store library that can be used by processes as local storage
 
-Dependency:
+Dependency details:
 
 package org.json (available in maven repository)
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20190722</version>
+</dependency>
 
-use the above package, mentioning as the classpath while compiling this repo.
+The above dependency jar is required while compiling this repository.
+
+Supported Operating Systems:
+
+Linux / Unix
+
 
