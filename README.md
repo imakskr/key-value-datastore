@@ -19,3 +19,7 @@ The above dependency jar is required while compiling this repository.
 Linux / Unix
 
 
+
+<b> How to Test?</b>
+
+A Tester program is provided for testing the datastore inside fw/app/client
