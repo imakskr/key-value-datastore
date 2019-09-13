@@ -14,7 +14,7 @@ https://mvnrepository.com/artifact/org.json/json
 
 The above dependency jar is required while compiling this repository.
 
-<b>Supported Operating Systems:<b>
+<b>Supported Operating Systems:</b>
     
 Linux / Unix
 
